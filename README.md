@@ -15,8 +15,9 @@ What does this project do:
 
 What function could be upgraded in the future:
 * Transform the column cibil rating into categories to see the differences
-* Try other evaluation metrics for cross validation
 * More visualization
+* Try other evaluation metrics for cross validation
+* Model optimization by feature engineering
 
 About Dataset:
 The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution. 
